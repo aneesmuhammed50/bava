@@ -1,0 +1,35 @@
+.calc{
+    width: 400px;
+    height: 450px;
+    background-color: rgb(3, 3, 3);
+    margin-left: 450px;
+    border-style: ridge;
+    border-color: darkgoldenrod;
+}
+#screen{
+    pointer-events: none;
+    margin-left: 26px;
+    width: 85%;
+    height: 50px;
+    margin-top: 25px;
+    font-size: 25px ;
+    font: bold;
+    border-style: ridge;
+    border-color: darkgoldenrod;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-color: rgb(34, 29, 26);
+    font-size: 25px;
+    font-style: bold;
+    color: cornsilk;
+    cursor: pointer;
+    border-style: ridge;
+    border-color: darkgoldenrod;
+    border-radius: 15px;
+    color: rgb(238, 180, 20)
+    
+}
